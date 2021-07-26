@@ -2,7 +2,7 @@
 
 
 ## Overview of the School District Analysis
-  The purpose of this analysis was to replace the math and reading scores for the ninth graders from Thomas High School with NaNs while keeping the rest of the data intact and repeat the school district analysis to determine how these changes affected the overall analysis.
+  The purpose of this analysis was to replace the math and reading scores for the ninth graders from Thomas High School with NaNs while keeping the rest of the data intact and repeat the school district analysis to determine how these changes affected the overall analysis.  
 <img src="challenge_v_mod.png" width="60%" height="60%" title="District Results">  
   
 ## School District Analysis Results
