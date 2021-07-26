@@ -12,8 +12,9 @@
  - There was no impact on the scores by school spending.
  - There was no impact on the scores by school size.
  - There was no impact on the scores by school type.
-
+<img src="challenge_v_mod.png" width="60%" height="60%" title="District Results">  
+<img src="challenge_v_mod_school.png" width="60%" height="60%" title="School Summary Results">
 
 ## Updated School District Summary
-Four changes in the updated school distract analysis after the reading and math scores for the ninth grade at Thmoas hHih School had been replaced with NaNs are that the '% Passing Math', '% Passing Reading' and '% Overall Passing' changed and increased by 25 points, and also that the amount of total students at the school changed.
+Four changes in the updated school distract analysis after the reading and math scores for the ninth grade at Thomas High School had been replaced with NaNs are that the '% Passing Math', '% Passing Reading' and '% Overall Passing' changed and increased by 25 points, and also that the amount of total students at the school changed.
 
