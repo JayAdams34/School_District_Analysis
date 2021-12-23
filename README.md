@@ -1,4 +1,5 @@
 # School_District_Analysis
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
 
 
 ## Overview of the School District Analysis
